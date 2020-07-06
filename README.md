@@ -1,1 +1,1 @@
-"# TFG" 
+Implementacion de un sistema CAD para la detección automática de melanomas, basado en técnicas de aprendizaje profundo (Deep Learning) que, a su vez, incorpora mecanismos de atención espacial para facilitar la interpretación de sus resultados.  
